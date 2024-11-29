@@ -1,0 +1,127 @@
+#EXTM3U
+#EXTINF:11,&flix HD
+http://119.156.26.155:8000/play/a06x/index.m3u8
+#EXTINF:11,&pictures HD
+http://119.156.26.155:8000/play/a07e/index.m3u8
+#EXTINF:11,&PRIVE HD
+http://119.156.26.155:8000/play/a07j/index.m3u8
+#EXTINF:21,Aaj ki Khabar
+https://server.livelegitpro.in/aajkikhabar/aajkikhabar/tracks-v1a1/mono.m3u8
+#EXTINF:60,AB MASTI III
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mastiii/master.m3u8
+#EXTINF:60,ABP News
+https://abplivetv.akamaized.net/hls/live/2043010/hindi/master.m3u8
+#EXTINF:60,ANIMAL PLANET HD
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:60,BBC News
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+#EXTINF:11,BBC WORLD
+http://119.156.26.155:8000/play/a064/index.m3u8
+#EXTINF:11,bindass
+http://119.156.26.155:8000/play/a009/index.m3u8
+#EXTINF:60,Bollywood-HD-OTT
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
+#EXTINF:102,BOLLYWOOD PRIME
+https://dai.google.com/linear/hls/event/yvQpXDAeRMGU25KTu--V6Q/master.m3u8
+#EXTINF:11,CARTOON NETWORK
+http://119.156.26.155:8000/play/a05s/index.m3u8
+#EXTINF:104,CBNS-US NEWS
+https://dai.google.com/linear/hls/event/TxSbNMu4R5anKrjV02VOBg/master.m3u8
+#EXTINF:0,Cineplex Hd
+http://tv.cloudcdn.me:80/live.ts?channelId=470&uid=6154&deviceMac=00:1A:79:51:31:21
+#EXTINF:50,Bollywood-Classic-OTT
+https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+#EXTINF:11,CNN INTL
+http://119.156.26.155:8000/play/a063/index.m3u8
+#EXTINF:11,Colors HD
+http://119.156.26.155:8000/play/a06w/index.m3u8
+#EXTINF:11,COMEDY CENTRAL
+http://119.156.26.155:8000/play/a065/index.m3u8
+#EXTINF:11,Discovery HD
+http://119.156.26.155:8000/play/a06s/index.m3u8
+#EXTINF:11,DISCOVERY KIDS
+http://119.156.26.155:8000/play/a062/index.m3u8
+#EXTINF:11,Discovery Science
+http://119.156.26.155:8000/play/a07k/index.m3u8
+#EXTINF:11,Discovery Turbo
+http://119.156.26.155:8000/play/a07l/index.m3u8
+#EXTINF:11,Disney Channel
+http://119.156.26.155:8000/play/a05u/index.m3u8
+#EXTINF:60,FOOD FOOD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
+#EXTINF:11,FOX Life HD
+http://119.156.26.155:8000/play/a07s/index.m3u8
+#EXTINF:60,FOX NEWS
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:8,HBO HD
+http://103.110.110.11:8081/live/hbo/playlist.m3u8
+#EXTINF:21,HINDI HITS HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:11,HISTORY TV18 HD
+http://119.156.26.155:8000/play/a07a/index.m3u8
+#EXTINF:60,INDIA TODAY
+https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
+#EXTINF:60,India TV
+https://pl-indiatvnews.akamaized.net/out/v1/db79179b608641ceaa5a4d0dd0dca8da/index.m3u8
+#EXTINF:11,Investigation Discovery
+http://119.156.26.155:8000/play/a06k/index.m3u8
+#EXTINF:11,MAX HD
+http://119.156.26.155:8000/play/a06e/index.m3u8
+#EXTINF:11,NAT Geo Wild HD
+http://119.156.26.155:8000/play/a06f/index.m3u8
+#EXTINF:11,National Geographic HD
+http://119.156.26.155:8000/play/a06r/index.m3u8
+#EXTINF:40,NDTV 24x7
+https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
+#EXTINF:40,NDTV khabar
+https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
+#EXTINF:0,Nick
+http://tv.cloudcdn.me:80/live.ts?channelId=252&uid=7084&deviceMac=00:1A:79:99:1F:A8
+#EXTINF:11,nick
+http://119.156.26.155:8000/play/a05v/index.m3u8
+#EXTINF:11,PIX HD
+http://119.156.26.155:8000/play/a07d/index.m3u8
+#EXTINF:11,Pogo
+http://119.156.26.155:8000/play/a05z/index.m3u8
+#EXTINF:60,SHEEMAROO BOLLYWOOD
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:40,Shemaroo Filmigaane
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/shemaroo-filmigaane/master.m3u8
+#EXTINF:0,Sonic
+http://tv.cloudcdn.me:80/live.ts?channelId=40476&uid=16068&deviceMac=00:1A:79:ED:10:29
+#EXTINF:11,SONY HD
+http://119.156.26.155:8000/play/a06y/index.m3u8
+#EXTINF:11,Sony Ten 1 HD
+http://119.156.26.155:8000/play/a06b/index.m3u8
+#EXTINF:11,Sony Ten 2 HD
+http://119.156.26.155:8000/play/a00c/index.m3u8
+#EXTINF:11,Sony Ten 5 HD
+http://119.156.26.155:8000/play/a007/index.m3u8
+#EXTINF:11,Star GOLD HD
+http://119.156.26.155:8000/play/a079/index.m3u8
+#EXTINF:11,STAR MOVIE HD
+http://119.156.26.155:8000/play/a06p/index.m3u8
+#EXTINF:11,Star Movie Select HD
+http://119.156.26.155:8000/play/a06q/index.m3u8
+#EXTINF:11,Star Plus HD
+http://119.156.26.155:8000/play/a06u/index.m3u8
+#EXTINF:11,Star Sports 1 HD
+http://119.156.26.155:8000/play/a069/index.m3u8
+#EXTINF:11,Star Sports 2 HD
+http://119.156.26.155:8000/play/a06a/index.m3u8
+#EXTINF:11,Star Utsav
+http://119.156.26.155:8000/play/a071/index.m3u8
+#EXTINF:11,TLC HD
+http://119.156.26.155:8000/play/a06m/index.m3u8
+#EXTINF:11,ZEE BOLLYWOOD
+http://119.156.26.155:8000/play/a07q/index.m3u8
+#EXTINF:11,ZEE CINEMA HD
+http://119.156.26.155:8000/play/a076/index.m3u8
+#EXTINF:11,ZEE TV HD
+http://119.156.26.155:8000/play/a06v/index.m3u8
+#EXTINF:60,ZEE News
+https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
+#EXTINF:11,Zoom
+http://119.156.26.155:8000/play/a003/index.m3u8
+#EXTINF:102,ZOOM TV
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
